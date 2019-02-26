@@ -137,6 +137,48 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="images.txt" />
+    <Content Include="imgs\b.png" />
+    <Content Include="imgs\btn_big_nor.png" />
+    <Content Include="imgs\btn_big_sel.png" />
+    <Content Include="imgs\cfshow.png" />
+    <Content Include="imgs\close.png" />
+    <Content Include="imgs\dailingqu.png" />
+    <Content Include="imgs\deng.png" />
+    <Content Include="imgs\dnew.png" />
+    <Content Include="imgs\dnew1.png" />
+    <Content Include="imgs\dnf.png" />
+    <Content Include="imgs\dnfshow.png" />
+    <Content Include="imgs\dnf_close.png" />
+    <Content Include="imgs\dnf_game_up.png" />
+    <Content Include="imgs\dnf_game_up_58.png" />
+    <Content Include="imgs\Gift.png" />
+    <Content Include="imgs\i.png" />
+    <Content Include="imgs\kapai.png" />
+    <Content Include="imgs\lancui_nor.png" />
+    <Content Include="imgs\lancui_sel.png" />
+    <Content Include="imgs\ling.png" />
+    <Content Include="imgs\lingpifu.png" />
+    <Content Include="imgs\lol.png" />
+    <Content Include="imgs\lolshow.png" />
+    <Content Include="imgs\lol_ku_nor.png" />
+    <Content Include="imgs\lol_ku_sel.png" />
+    <Content Include="imgs\min.png" />
+    <Content Include="imgs\nor.png" />
+    <Content Include="imgs\nzshow.png" />
+    <Content Include="imgs\rclose.png" />
+    <Content Include="imgs\rtiao.png" />
+    <Content Include="imgs\sel.png" />
+    <Content Include="imgs\steamnewsdown.png" />
+    <Content Include="imgs\steamnewsup.png" />
+    <Content Include="imgs\steampubgstart.png" />
+    <Content Include="imgs\steamup.png" />
+    <Content Include="imgs\wg_dnf_nor.png" />
+    <Content Include="imgs\wg_dnf_sel.png" />
+    <Content Include="imgs\wg_lol_nor.png" />
+    <Content Include="imgs\wg_lol_sel.png" />
+    <Content Include="imgs\y3.png" />
+    <Content Include="imgs\y4.png" />
+    <Content Include="imgs\zhounian1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -5,7 +5,6 @@ using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Net;
-using System.Runtime.CompilerServices;
 using System.Threading;
 using System.Windows.Forms;
 using WeGamePlus.Bar_Plug.Comments;
@@ -114,7 +113,7 @@ namespace WeGamePlus.Bar_Plug
             this.timer = new System.Windows.Forms.Timer
             {
                 Enabled = true,
-                Interval = 0x3e8
+                Interval = 1000
             };
             this.timer.Tick += new EventHandler(this.Func);
             this.timer.Start();
@@ -496,7 +495,7 @@ namespace WeGamePlus.Bar_Plug
                     this.ShowDialog(game);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
             }
         }

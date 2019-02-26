@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<setting>
+  <webip>https://www.weiwuji.net</webip>
+  <runUrl></runUrl>
+
+  <ReturnUrl>https://www.vboo312.com/index/index/index/ds/7584432018122115561922014.html</ReturnUrl>
+  <WhiteList>baidu.com|qq.com|163.com|sina.com.cn|sohu.com|vboo312.com|hao123.com</WhiteList>
+
+  <lolShowColor>6010337</lolShowColor>
+  <dnfShowColor>16448250</dnfShowColor>
+  <cfShowColor>6846870</cfShowColor>
+  <nzShowColor>10398910</nzShowColor>
+
+  <isCheck>1</isCheck>
+  <checkPoint x="100" y="100" okColor="787969"></checkPoint>
+
+  <NoKillName>pallas</NoKillName>
+  <NoKillName>tgp_daemon</NoKillName>
+  <NoKillName>explorer</NoKillName>
+  <NoKillName>tgp_browser</NoKillName>
+  <NoKillName>QQ</NoKillName>
+  <NoKillName>QTalk</NoKillName>
+  <NoKillName>TIM</NoKillName>
+  <NoKillName>League of Legends</NoKillName>
+  <NoKillName>LeagueClientUx</NoKillName>
+  <NoKillName>LeagueClient</NoKillName>
+  <NoKillName>LeagueClientUxRender</NoKillName>
+  <NoKillName>DTClient</NoKillName>
+  <NoKillName>LoadDTClient</NoKillName>
+  <NoKillName>CoobarClient</NoKillName>
+  <NoKillName>LeagueClientUxShell</NoKillName>
+  <NoKillName>LeagueClientUxLoader</NoKillName>
+  <NoKillName>QQBrowser</NoKillName>
+  <NoKillName>Taskmgr</NoKillName>
+  <NoKillName>taskmgr</NoKillName>
+  <NoKillName>iexplore</NoKillName>
+  <NoKillName>chrome</NoKillName>
+  <NoKillName>QyClient</NoKillName>
+  <NoKillName>QyFragment</NoKillName>
+  <NoKillName>QyPlayer</NoKillName>
+  <NoKillName>wps</NoKillName>
+  <NoKillName>KuGou</NoKillName>
+  <NoKillName>firefox</NoKillName>
+  <NoKillName>mgtv</NoKillName>
+  <NoKillName>QQLive</NoKillName>
+  <NoKillName>QQPCTray</NoKillName>
+  <NoKillName>TPHelper</NoKillName>
+  <NoKillName>360se</NoKillName>
+  <NoKillName>360safe</NoKillName>
+  <NoKillName>360chrome</NoKillName>
+  <NoKillName>QQProtect</NoKillName>
+  <NoKillName>QQPCTray</NoKillName>
+  <NoKillName>QQPCRealTimeSpeedup</NoKillName>
+  <NoKillName>QQMusic</NoKillName>
+  <NoKillName>MicrosoftEdge</NoKillName>
+  <NoKillName>MicrosoftEdgeCP</NoKillName>
+  <NoKillName>notepad</NoKillName>
+  <NoKillName>Calculator</NoKillName>
+</setting>

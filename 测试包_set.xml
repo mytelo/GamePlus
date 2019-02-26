@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <url_lol>https://www.jjz1688.net/index/index/index/a/69887.html</url_lol>
+  <url_dnf>https://www.jjz1688.net/index/index/index/a/69887/c/2.html</url_dnf>
+  <url_cf> https://www.jjz1688.net/index/index/index/a/69887/c/3.html</url_cf>
+  <url_nz>https://www.jjz1688.net/index/index/index/a/69887/c/5.html</url_nz>
+  <url_steam>https://www.jjz1688.net/index/index/index/a/69887/c/1.html</url_steam>
+  <isupdate>1</isupdate>
+  <iskill>1</iskill>
+  <isrun>1</isrun>
+  <ishide>0</ishide>
+  <isloadImage>0</isloadImage>
+  <iswg_lol_show>0</iswg_lol_show>
+  <iswg_dnf_show>0</iswg_dnf_show>
+  <iswg_nz_show>0</iswg_nz_show>
+  <iswg_cf_show>0</iswg_cf_show>
+  <ispubg_show>0</ispubg_show>
+  <intercept>1</intercept>
+  <isShowFormItem>0</isShowFormItem>
+  <!--type   2是地下城与勇士 3是穿越火线  4是英雄联盟  5是逆战  6是Steam PUBG  closeLocation  其他游戏可自定义   -->
+  <!--  -->
+  <FormItem text="红包" type="4" location1="1,1" location2="164,21" location3="1,1" size1="30,30" size2="31,40" size3="30,30" image="冠军nor" imageType="png" hoverimage="冠军sel" hideLocation1="40,0" hideLocation2="40,0" hideLocation3="40,0" hideColor1="2644600" hideColor2="2644600" hideColor3="2644600" isShow="1" statistics="1" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="小宝盒" type="4" location1="1,1" location2="1136,89" location3="1,1" size1="30,30" size2="19,15" size3="30,30" image="b" imageType="png" hoverimage="b" hideLocation1="1012,74" hideLocation2="1266,93" hideLocation3="1580,114" hideColor1="6790584" hideColor2="7121093" hideColor3="7121093" isShow="0" statistics="2" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="小雪花" type="4" location1="1,1" location2="1210,49" location3="1,1" size1="30,30" size2="19,16" size3="30,30" image="kapai" imageType="png" hoverimage="kapai" hideLocation1="40,0" hideLocation2="40,0" hideLocation3="40,0" hideColor1="2644600" hideColor2="2644600" hideColor3="2644600" isShow="1" statistics="3" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="幸运珍宝盒" type="4" isWeGame="1" location1="1,1" location2="953,377" location3="1,1" size1="30,30" size2="68,68" size3="30,30" image="btn_big_nor" imageType="png" hoverimage="btn_big_sel" hideLocation1="150,86" hideLocation2="502,264" hideLocation3="232,135" hideColor1="7706274" hideColor2="10391552" hideColor3="8563126" isShow="0" statistics="4" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="开启典藏宝箱" type="4" location1="1,1" location2="435,175" location3="1,1" size1="30,30" size2="190,46" size3="30,30" image="nor" imageType="png" hoverimage="sel" hideLocation1="150,86" hideLocation2="502,264" hideLocation3="232,135" hideColor1="7706274" hideColor2="10391552" hideColor3="8563126" isShow="0" statistics="4" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="好友礼物" type="4" location1="1,1" location2="1162,117" location3="1,1" size1="30,30" size2="57,18" size3="30,30" image="Gift" imageType="png" hoverimage="Gift" hideLocation1="1012,74" hideLocation2="1266,93" hideLocation3="1580,114" hideColor1="6790584" hideColor2="7121093" hideColor3="7121093" isShow="1" statistics="5" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="神秘商店" type="4" location1="1,1" location2="1055,530" location3="1,1" size1="30,30" size2="224,140" size3="30,30" image="y3" imageType="png" hoverimage="y4" hideLocation1="40,0" hideLocation2="40,0" hideLocation3="40,0" hideColor1="2644600" hideColor2="2644600" hideColor3="2644600" isShow="1" statistics="9" closeimage="" closeSize="25,25" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="左箭头" type="4" location1="1,1" location2="0,355" location3="1,1" size1="30,30" size2="34,84" size3="30,30" image="ling" imageType="png" hoverimage="ling" hideLocation1="40,0" hideLocation2="40,0" hideLocation3="40,0" hideColor1="2644600" hideColor2="2644600" hideColor3="2644600" isShow="1" statistics="6" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="右箭头" type="4" location1="1,1" location2="1237,355" location3="1,1" size1="30,30" size2="34,84" size3="30,30" image="zhounian1" imageType="png" hoverimage="zhounian1" hideLocation1="40,0" hideLocation2="40,0" hideLocation3="40,0" hideColor1="2644600" hideColor2="2644600" hideColor3="2644600" isShow="1" statistics="7" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="即使好礼" type="4" location1="1,1" location2="704,90" location3="1,1" size1="30,30" size2="100,32" size3="30,30" image="lol_ku_nor" imageType="png" hoverimage="lol_ku_sel" hideLocation1="692,85" hideLocation2="904,12" hideLocation3="1090,139" hideColor1="9551565" hideColor2="2575453" hideColor3="9551565" isShow="0" statistics="8" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="典藏宝箱" type="4" location1="1,1" location2="654,0" location3="1,1" size1="30,30" size2="113,80" size3="30,30" image="deng" imageType="png" hoverimage="deng" hideLocation1="40,0" hideLocation2="40,0" hideLocation3="40,0" hideColor1="2644600" hideColor2="2644600" hideColor3="2644600" isShow="1" statistics="10" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="领皮肤" type="4" location1="1,1" location2="1026,0" location3="1,1" size1="30,30" size2="31,80" size3="30,30" image="lingpifu" imageType="png" hoverimage="lingpifu" hideLocation1="40,0" hideLocation2="40,0" hideLocation3="40,0" hideColor1="2644600" hideColor2="2644600" hideColor3="2644600" isShow="0" statistics="11" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="待领取" type="4" location1="1,1" location2="1121,6" location3="1,1" size1="30,30" size2="68,21" size3="30,30" image="dailingqu" imageType="png" hoverimage="dailingqu" hideLocation1="40,0" hideLocation2="40,0" hideLocation3="40,0" hideColor1="2644600" hideColor2="2644600" hideColor3="2644600" isShow="0" statistics="12" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="蓝萃" type="4" location1="1,1" location2="1013,678" location3="1,1" size1="30,30" size2="42,41" size3="30,30" image="lancui_nor" imageType="png" hoverimage="lancui_sel" hideLocation1="40,0" hideLocation2="40,0" hideLocation3="40,0" hideColor1="2644600" hideColor2="2644600" hideColor3="2644600" isShow="0" statistics="13" ClassName="RCLIENT" WindowName="League of Legends">
+  </FormItem>
+  <FormItem text="WeGame下面的按钮lol自适应Y" type="4" location1="1,-118" location2="0,0" location3="0,0" size1="190,46" size2="0,0" size3="0,0" image="wg_lol_nor" imageType="png" hoverimage="wg_lol_sel" hideLocation1="35,120" hideLocation2="0,0" hideLocation3="0,0" hideColor1="1710105" hideColor2="0" hideColor3="0,0" isShow="0" statistics="14" ClassName="TWINCONTROL" WindowName="WeGame">
+  </FormItem>
+  <FormItem text="WeGame下面的按钮dnf自适应Y" type="2" location1="1,-72" location2="0,0" location3="0,0" size1="190,46" size2="0,0" size3="0,0" image="wg_dnf_nor" imageType="png" hoverimage="wg_dnf_sel" hideLocation1="35,120" hideLocation2="0,0" hideLocation3="0,0" hideColor1="1710105" hideColor2="0" hideColor3="0,0" isShow="0" statistics="15" ClassName="TWINCONTROL" WindowName="WeGame">
+  </FormItem>
+  <FormItem text="SteamPubg空投" type="6" location1="290,237" location2="0,0" location3="0,0" size1="240,40" size2="0,0" size3="0,0" image="steampubgstart" imageType="png" hoverimage="steampubgstart" hideLocation1="308,143" hideLocation2="0,0" hideLocation3="0,0" hideColor1="2734030" hideColor2="0" hideColor3="0,0" isShow="0" statistics="1" ClassName="vguiPopupWindow" WindowName="Steam">
+  </FormItem>
+  <FormItem text="SteamPubg消息框" type="6" location1="10,10" location2="0,0" location3="0,0" size1="240,40" size2="0,0" size3="0,0" image="冠军nor" imageType="png" hoverimage="冠军sel" hideLocation1="10,2" hideLocation2="0,0" hideLocation3="0,0" hideColor1="0" hideColor2="0" hideColor3="0,0" isShow="1" statistics="2" ClassName="vguiPopupWindow" WindowName="Steam">
+  </FormItem>
+  <DNF1 text="Dnf左面" type="2" location1="-150,0" location2="0,0" location3="0,0" size1="150,600" size2="0,0" size3="0,0" image="dnf_game_up_58" imageType="png" hoverimage="dnf_close" hideLocation1="0,0" hideLocation2="0,0" hideLocation3="0,0" hideColor1="0" hideColor2="0" hideColor3="0,0" isShow="0" statistics="1" ClassName="地下城与勇士" WindowName="地下城与勇士">
+  </DNF1>
+  <DNF2 text="Dnf上面" type="2" location1="0,-68" location2="0,0" location3="0,0" size1="500,68" size2="0,0" size3="0,0" image="dnf_game_up" imageType="png" hoverimage="dnf_close" hideLocation1="31,115" hideLocation2="0,0" hideLocation3="0,0" hideColor1="305126" hideColor2="0" hideColor3="0,0" isShow="0" statistics="2" ClassName="地下城与勇士" WindowName="地下城与勇士">
+  </DNF2>
+  <DNF3 text="Dnf其他1" type="2" location1="10,10" location2="0,0" location3="0,0" size1="240,40" size2="0,0" size3="0,0" image="冠军nor" imageType="png" hoverimage="冠军sel" hideLocation1="31,115" hideLocation2="0,0" hideLocation3="0,0" hideColor1="305126" hideColor2="0" hideColor3="0,0" isShow="1" statistics="3" ClassName="地下城与勇士" WindowName="地下城与勇士">
+  </DNF3>
+  <DNF4 text="Dnf其他2" type="2" location1="10,10" location2="0,0" location3="0,0" size1="240,40" size2="0,0" size3="0,0" image="冠军nor" imageType="png" hoverimage="冠军sel" hideLocation1="31,115" hideLocation2="0,0" hideLocation3="0,0" hideColor1="305126" hideColor2="0" hideColor3="0,0" isShow="1" statistics="4" ClassName="地下城与勇士" WindowName="地下城与勇士">
+  </DNF4>
+  <DNF5 text="Dnf其他3" type="2" location1="10,10" location2="0,0" location3="0,0" size1="240,40" size2="0,0" size3="0,0" image="冠军nor" imageType="png" hoverimage="冠军sel" hideLocation1="31,115" hideLocation2="0,0" hideLocation3="0,0" hideColor1="305126" hideColor2="0" hideColor3="0,0" isShow="1" statistics="5" ClassName="地下城与勇士" WindowName="地下城与勇士">
+  </DNF5>
+ <FormItem text="Dota新品" type="9" location1="1230,1" location2="1026,0" location3="1,1" size1="182,59" size2="31,80" size3="30,30" image="dnew" imageType="png" hoverimage="dnew1" hideLocation1="70,24" hideLocation2="40,0" hideLocation3="40,0" hideColor1="5589572" hideColor2="2644600" hideColor3="2644600" isShow="0" statistics="50" ClassName="SDL_app" WindowName="Dota 2" ClickUrl="https://www.jjz1688.net/index/index/index/a/69887/c/6.html">
+  </FormItem>
+
+   <FormItem text="i图标" type="9" location1="1625,21" location2="1026,0" location3="1,1" size1="27,21" size2="31,80" size3="30,30" image="i" imageType="png" hoverimage="i" hideLocation1="70,24" hideLocation2="40,0" hideLocation3="40,0" hideColor1="5589572" hideColor2="2644600" hideColor3="2644600" isShow="0" statistics="51" ClassName="SDL_app" WindowName="Dota 2" ClickUrl="https://www.jjz1688.net/index/index/index/a/69887/c/6.html"></FormItem>
+
+  <KillWindow ClassName="ThemeMinWin" WindowText="-">
+  </KillWindow>
+  <KillWindow ClassName="EventWindow_phqgh" WindowText="EventWindow_phqgh">
+  </KillWindow>
+  <KillWindow ClassName="WTWindow" WindowText="幸运冠军抽奖">
+  </KillWindow>
+  <KillName>
+  </KillName>
+  <NoKillName>pallas</NoKillName>
+  <NoKillName>tgp_daemon</NoKillName>
+  <NoKillName>explorer</NoKillName>
+  <NoKillName>tgp_browser</NoKillName>
+  <NoKillName>QQ</NoKillName>
+  <NoKillName>QTalk</NoKillName>
+  <NoKillName>TIM</NoKillName>
+  <NoKillName>League of Legends</NoKillName>
+  <NoKillName>LeagueClientUx</NoKillName>
+  <NoKillName>LeagueClient</NoKillName>
+  <NoKillName>LeagueClientUxRender</NoKillName>
+  <NoKillName>DTClient</NoKillName>
+  <NoKillName>LoadDTClient</NoKillName>
+  <NoKillName>CoobarClient</NoKillName>
+  <NoKillName>LeagueClientUxShell</NoKillName>
+  <NoKillName>LeagueClientUxLoader</NoKillName>
+  <NoKillName>QQBrowser</NoKillName>
+  <NoKillName>Taskmgr</NoKillName>
+  <NoKillName>iexplore</NoKillName>
+  <NoKillName>chrome</NoKillName>
+  <NoKillName>QyClient</NoKillName>
+  <NoKillName>QyFragment</NoKillName>
+  <NoKillName>QyPlayer</NoKillName>
+  <NoKillName>wps</NoKillName>
+  <NoKillName>KuGou</NoKillName>
+  <NoKillName>firefox</NoKillName>
+  <NoKillName>mgtv</NoKillName>
+  <NoKillName>QQLive</NoKillName>
+  <NoKillName>QQPCTray</NoKillName>
+  <NoKillName>TPHelper</NoKillName>
+  <NoKillName>360se</NoKillName>
+  <NoKillName>360safe</NoKillName>
+  <NoKillName>360chrome</NoKillName>
+  <NoKillName>QQProtect</NoKillName>
+  <NoKillName>QQPCTray</NoKillName>
+  <NoKillName>QQPCRealTimeSpeedup</NoKillName>
+  <NoKillName>QQMusic</NoKillName>
+  <NoKillName>MicrosoftEdge</NoKillName>
+  <NoKillName>MicrosoftEdgeCP</NoKillName>
+  <NoKillName>notepad</NoKillName>
+  <NoKillName>Calculator</NoKillName>
+  <NoKillName>ApplicationFrameHost</NoKillName>
+  <NoKillName>taskmgr</NoKillName>
+</root>

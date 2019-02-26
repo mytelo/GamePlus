@@ -66,7 +66,7 @@ namespace WeGamePlus.Bar_Plug.Models
             }
         }
 
-        private static StringBuilder sb = new StringBuilder();
+        public static StringBuilder sb = new StringBuilder();
         public static Image SetImage(string imgName, string exc = "png")
         {
             if (ImageList.Keys.Contains<string>(imgName))

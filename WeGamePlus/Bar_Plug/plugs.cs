@@ -30,7 +30,7 @@ namespace WeGamePlus.Bar_Plug
         private dnf_other2 o2;
         private dnf_other3 o3;
         private SteamPubgShow sps;
-        private System.Threading.Thread Thread;
+        private Thread Thread;
         private bool isdnfUp;
         private bool isdnfups;
         private bool isls;
@@ -556,6 +556,7 @@ namespace WeGamePlus.Bar_Plug
                                     Win32Native.SetParent(userForm.Handle, HWND);
                                     userForm.isOpen = true;
                                     userForm.Show();
+                                    //userForm.ShowDialog();
                                 }
                                 if (userForm.text.Contains("自适应X"))
                                 {

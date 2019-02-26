@@ -126,6 +126,7 @@ namespace WeGamePlus.Bar_Plug.Comments
                         char[] chArray11 = new char[] { ',' };
                         char[] chArray12 = new char[] { ',' };
                         item.size3 = new Size(int.Parse(element.Attribute("size3")?.Value.Split(chArray11)[0]), int.Parse(element.Attribute("size3")?.Value.Split(chArray12)[1]));
+                        
                         item.image = UrlManage.SetImage(element.Attribute("image")?.Value, item.imageType);
                         item.hoverimage = UrlManage.SetImage(element.Attribute("hoverimage")?.Value, item.imageType);
                         char[] chArray13 = new char[] { ',' };
